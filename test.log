@@ -1,0 +1,4 @@
+2021-08-03 18:55:48,951:INFO:DM No. 1: b'capek bngt  itcek'
+2021-08-03 18:55:48,951:INFO:Total DM = 1
+2021-08-03 18:55:49,393:ERROR:[{'message': 'Application cannot perform write actions. Contact Twitter Platform Operations through https://help.twitter.com/forms/platform.', 'code': 261}]
+2021-08-03 18:55:49,393:INFO:DM has been checked
